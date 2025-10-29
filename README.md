@@ -32,7 +32,7 @@ Follow the steps below to run the project locally:
 
 
 # 1. Clone the repository
-git clone 
+git clone https://github.com/atchayamarimuthu/To-Do-App-.git
 
 # 2. Navigate into the project folder
 cd todo-app-react-hooks
